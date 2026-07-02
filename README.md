@@ -28,7 +28,7 @@ Backend automation, IoT tinkering, and threat hunting are my playgrounds.
 ### 📊 GitHub Stats
 
 *(Optional: You can include dynamic stats here using tools like github-readme-stats)*
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpdavila&show_icons=true&theme=radical)
 
 ---
 
