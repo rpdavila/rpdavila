@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Rafael! 👋
 
 Former Music Teacher & Musician turned Cyber Security Engineer. I specialize in bridging the gap between creative problem-solving and technical execution, applying pattern recognition and orchestration from my musical background to secure digital landscapes.
 
