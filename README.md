@@ -23,14 +23,6 @@ Backend automation, IoT tinkering, and threat hunting are my playgrounds.
 | **Cloud & Infrastructure** | Cloud Security, Network Fundamentals, IoT & Automation |
 | **Core Interests** | DevSecOps, Network Analysis, Risk Assessment & Mitigation |
 
----
-
-### 📊 GitHub Stats
-
-*(Optional: You can include dynamic stats here using tools like github-readme-stats)*
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpdavila&show_icons=true&theme=radical)
-
----
 
 ### 📫 Connect with Me
 
