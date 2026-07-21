@@ -26,5 +26,5 @@ Backend automation, IoT tinkering, and threat hunting are my playgrounds.
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-pietri-davila)
 - 📧 [Email](mailto:your.email@example.com)
