@@ -2,7 +2,6 @@
 
 Former Music Teacher & Musician turned Cyber Security Engineer. I specialize in bridging the gap between creative problem-solving and technical execution, applying pattern recognition and orchestration from my musical background to secure digital landscapes.
 
-Backend automation, IoT tinkering, and threat hunting are my playgrounds.
 
 ---
 
