@@ -7,8 +7,8 @@ Former Music Teacher & Musician turned Cyber Security Engineer. I specialize in 
 
 ### 🛡️ About Me
 
-- 🚀 **Current Focus:** Actively seeking a **Junior Cyber Security Analyst** or **Junior Cloud Security Engineer** role.
-- 🎓 **Certifications:** CompTIA Security+ Certified 🛡️ | Currently studying for **CompTIA Network+** 🌐
+- 🚀 **Current Focus:** Actively seeking a **Junior Cloud Security Engineer** role.
+- 🎓 **Certifications:** CompTIA Security+ Certified 🛡️ | AZ-900 Certified | Currently studying for **CompTIA Network+, SC-900** 🌐
 - ⚙️ **Tech Evolution:** Started with IoT and automation engineering, which naturally evolved into a passion for Cloud Security and Penetration Testing.
 - 🧩 **My Edge:** Strong curriculum-writing background means I love documenting processes, writing clean guides, and explaining complex technical concepts simply.
 
