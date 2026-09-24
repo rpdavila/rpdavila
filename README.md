@@ -20,7 +20,7 @@ Former Music Teacher & Musician turned Cybersecurity Engineer. I bridge creative
 | :--- | :--- |
 | **Cyber Security** | Ethical Hacking, Penetration Testing, SIEM Tools, Threat Identification |
 | **Cloud & Infrastructure** | Cloud Security, Network Fundamentals, IoT & Automation |
-| **Core Interests** | DevSecOps, Network Analysis, Risk Assessment & Mitigation |
+| **Core Interests** | Penetration Testing, Network Analysis, Risk Assessment & Mitigation |
 
 
 ### 📫 Connect with Me
