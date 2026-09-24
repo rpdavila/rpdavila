@@ -8,7 +8,7 @@ Former Music Teacher & Musician turned Cybersecurity Engineer. I bridge creative
 ### 🛡️ About Me
 
 - 🚀 **Current Focus:** Actively seeking a **Junior Cloud Security Engineer** and **Penetration Tester** role.
-- 🎓 **Certifications:** CompTIA Security+ Certified 🛡️ | AZ-900 Certified | Currently studying for **CompTIA Network+, SC-900** 🌐
+- 🎓 **Certifications:** CompTIA Security+ Certified 🛡️ | AZ-900 Certified | **SC-900** certified | Currently studying for **CompTIA Network+, CPTS**  🌐
 - ⚙️ **Tech Evolution:** Started with IoT and automation engineering, which naturally evolved into a passion for Cloud Security and Penetration Testing.
 - 🧩 **My Edge:** Strong curriculum-writing background means I love documenting processes, writing clean guides, and explaining complex technical concepts simply.
 
